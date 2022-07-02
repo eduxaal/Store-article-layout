@@ -18,22 +18,22 @@ export async function getProduct(id) {
                 {
                     sku: '1001BK',
                     description: "Black",
-                    photo: 'http://localhost:8088/Act2/photos/img2.png'
+                    photo: 'photos/img2.png'
                 },
                 {
                     sku: '1001BL',
                     description: "Blue",
-                    photo: 'http://localhost:8088/Act2/photos/img3.png'
+                    photo: 'photos/img3.png'
                 },
                 {
                     sku: '1001GR',
                     description: "Green",
-                    photo: 'http://localhost:8088/Act2/photos/img4.png'
+                    photo: 'photos/img4.png'
                 },
                 {
                     sku: '1001BE',
                     description: "Beige",
-                    photo: 'http://localhost:8088/Act2/photos/img5.png'
+                    photo: 'photos/img5.png'
                 },
             ],
             sizes: [{
