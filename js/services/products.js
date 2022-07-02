@@ -13,7 +13,7 @@ export async function getProduct(id) {
             styles: [{
                     sku: '1001LG',
                     description: "Light Grey",
-                    photo: 'http://localhost:8088/Act2/photos/img1.png'
+                    photo: 'photos/img1.png'
                 },
                 {
                     sku: '1001BK',
